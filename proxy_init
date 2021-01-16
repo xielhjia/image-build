@@ -1,0 +1,1 @@
+FROM gcr.io/proxy_init:1.1.6

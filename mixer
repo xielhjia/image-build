@@ -1,0 +1,2 @@
+FROM gcr.io/mixer:1.1.6
+
