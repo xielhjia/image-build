@@ -1,0 +1,2 @@
+FROM gcr.io/ml-pipeline/envoy:metadata-grpc-1.0.1
+
