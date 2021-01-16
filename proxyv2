@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/proxyv2:none
+FROM gcr.io/istio-release/proxyv2:v1.0.2
