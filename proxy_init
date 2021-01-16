@@ -1,1 +1,1 @@
-FROM gcr.io/proxy_init:1.1.6
+FROM gcr.io/istio-release/proxy_init:1.0.2

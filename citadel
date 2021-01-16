@@ -1,1 +1,1 @@
-FROM gcr.io/citadel:1.1.6
+FROM gcr.io/istio-release/citadel:1.0.2
